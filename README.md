@@ -1,4 +1,4 @@
-#vpnsetup
+# vpnsetup
 
 Some scripts to (partially) automate creating an OpenVPN server on Digital Ocean.
 
